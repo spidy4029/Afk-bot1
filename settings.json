@@ -1,7 +1,7 @@
 {
-  "name": "Death_Hunter",
+  "name": "Xmvp_Master",
   "bot-account": {
-    "username": "Death_Hunter",
+    "username": "Xmvp_Master",
     "password": "",
     "type": "offline"
   },
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "death0000"
+      "password": "1234op"
     },
     "anti-afk": {
       "enabled": true,
